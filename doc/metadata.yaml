@@ -1,0 +1,17 @@
+description: Construction of the module is optimized for most dual operational apmlifier
+  in DIL8 package. Contains voltage reference.
+github_branch: OZdual01A
+github_description: Construction of the module is optimized for most dual operational
+  apmlifier in DIL8 package. Contains voltage reference.
+github_repo: OZdual01
+github_url: https://github.com/mlab-modules/OZdual01
+homepage: false
+images:
+- doc/img/OZDUAL01A_small.jpg
+- doc/img/OZDUAL01A_big.jpg
+- doc/img/OZdual01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: OZdual01
+updated: '2023-09-17T11:30:22.995577+00:00'
